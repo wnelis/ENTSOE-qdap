@@ -9,7 +9,7 @@ As the only needed function is to retrieve the prices of electrical energy and a
 Details of the REST API used in this module can be found at URL https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html
 
 ## Key
-For API access from a script, a key is needed. This key can be requested at the ENTSOE-E transparancy platform. The request takes two steps:
+For API access from a script, a key is needed. This key can be requested at the ENTSOE-E transparancy platform. Obtaining the request takes two steps:
 
 A) Go to https://transparency.entsoe.eu/dashboard/show, and register on the ENTSOE-E transparancy platform by clicking 'login' at the top right of the page.
 
