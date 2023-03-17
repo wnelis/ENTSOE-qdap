@@ -1,6 +1,7 @@
 #
 # Module entsoe-qdap.py can retrieves the prices for electrical energy the next
-# day. It returns those prices in a list of tuples.
+# day. It returns a dictionary with the key being the time stamp of the start of
+# a period and the value the price during that period.
 #
 # This module is inspired on module entsoe-py. The latter module can retrieve
 # much information about the production and distribution of electrical energy in
